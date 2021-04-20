@@ -1,17 +1,17 @@
 # site settings
-title: Dr System
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: doktorsystem
+subtitle: Piotr Szostak
+email: doktorsystem00@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://doktorsystem.github.io
+#baseurl: # the subpath of your site, e.g. /blog
+#url: https://doktorsystem.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Wojrowicka 4a/1
+city: Wrocław
+#state: 
+zip_code: 54-434
+#country: United States of America
+phone: +48 609 709 166
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  #GitHub: https://github.com/andrewbanchich
+  #GitLab:
+  #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  #Instagram:
+  #LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  #Twitter: https://twitter.com/andrewbanchich
+  Facebook: <strona na facebooku>
+  facebook-messenger: <moj messenger>
+  #Slack:
 
 # build settings
 markdown: kramdown
